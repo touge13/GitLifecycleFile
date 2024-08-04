@@ -1,3 +1,5 @@
+Схема, созданная при помощи mermaid:
+
 ```mermaid
 flowchart TD
     A["untracked (неотслеживаемый)"] -->|git add| B["staged (в списке на коммит) + tracked"]
